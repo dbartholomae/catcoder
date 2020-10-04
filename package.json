@@ -1,0 +1,16 @@
+{
+  "name": "catcoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "simulator": "\"\"C:\\Program Files\\Java\\jre1.8.0_261\\bin\\java.exe\"\" -jar simulator.jar 1 1 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
